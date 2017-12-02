@@ -20,7 +20,8 @@
 - [Display](https://github.com/statenweb/carbon-field-display) - Adds a `display` field type to Carbon Fields.
 - [Password](https://github.com/pkostadinov-2create/carbon-field-password) - This field can be used to store password data into database.
 - [urlpicker](https://github.com/iamntz/carbon-fields-urlpicker) - Adds a `urlpicker` field type to Carbon Fields.
-- 
+- [Olapic](https://github.com/schrapel/carbon-fields-olapic) - Extends the base Carbon Fields with a Olapic field.
+- [Brightcove](https://github.com/schrapel/carbon-fields-brightcove) - Extends the base Carbon Fields with a Brightcove field.
 
 
 ## Plugins
@@ -28,6 +29,7 @@
 - [Carbon Fields Plugin](https://github.com/htmlburger/carbon-fields-plugin) - This package loads Carbon Fields as a WordPress plugin.
 - [GUI for Carbon Fields Plugin](https://github.com/Kaloyan98/Carbon-Fields-plugin) - GUI for Carbon Fields.
 - [Carbon Fields Engine](https://github.com/dannygsmith/carbon-fields-engine) - Carbon Fields Meta Boxes for Nav Menu Items used in WordPress Themes - will be automatically included.
+- [Bot](https://github.com/pupuga/bot) - modules wordpress ( depends on carbon fields).
 
 ## Contribute
 
