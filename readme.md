@@ -12,6 +12,11 @@
 
 - [Number](https://github.com/htmlburger/carbon-field-number) - Adds a `number` field type to Carbon Fields.
 - [Icon](https://github.com/htmlburger/carbon-field-icon) - Adds a `icon` field type to Carbon Fields, which provides the ability to select an icon or a glyph.
+- [Select Multiple](https://github.com/dmhendricks/carbon-field-select-multiple) - A custom multiple select field for Carbon Fields with optional Select2 support.
+- [qtranslate](https://github.com/appristas/carbon-fields-qtranslate) - adds translatable fields for Carbon Fields using qTranslate-X.
+- [Display Checkbox](https://github.com/statenweb/carbon-field-display-checkbox) - Adds a `display-checkbox` field type to Carbon Fields.
+- [Hidden](https://github.com/pkostadinov-2create/carbon-field-hidden) - This field allows to save complex fields without having any entries setup.
+- [Display](https://github.com/statenweb/carbon-field-display) - Adds a `display` field type to Carbon Fields.
 
 
 ## Contribute
