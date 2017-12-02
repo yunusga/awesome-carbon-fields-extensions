@@ -5,24 +5,13 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Fields](#fields)
 
 
-## Section
+## Fields
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Number](https://github.com/htmlburger/carbon-field-number) - Adds a `number` field type to Carbon Fields.
+- [Icon](https://github.com/htmlburger/carbon-field-icon) - Adds a `icon` field type to Carbon Fields, which provides the ability to select an icon or a glyph.
 
 
 ## Contribute
