@@ -11,8 +11,8 @@
 
 ## Fields
 
-- [Number](https://github.com/htmlburger/carbon-field-number) - Adds a `number` field type to Carbon Fields.
-- [Icon](https://github.com/htmlburger/carbon-field-icon) - Adds a `icon` field type to Carbon Fields, which provides the ability to select an icon or a glyph.
+- [Number](https://github.com/htmlburger/carbon-field-number) - Adds a `number` field type to Carbon Fields (official).
+- [Icon](https://github.com/htmlburger/carbon-field-icon) - Adds a `icon` field type to Carbon Fields, which provides the ability to select an icon or a glyph (official).
 - [Select Multiple](https://github.com/dmhendricks/carbon-field-select-multiple) - A custom multiple select field for Carbon Fields with optional Select2 support.
 - [qtranslate](https://github.com/appristas/carbon-fields-qtranslate) - adds translatable fields for Carbon Fields using qTranslate-X.
 - [Display Checkbox](https://github.com/statenweb/carbon-field-display-checkbox) - Adds a `display-checkbox` field type to Carbon Fields.
@@ -26,7 +26,7 @@
 
 ## Plugins
 
-- [Carbon Fields Plugin](https://github.com/htmlburger/carbon-fields-plugin) - This package loads Carbon Fields as a WordPress plugin.
+- [Carbon Fields Plugin](https://github.com/htmlburger/carbon-fields-plugin) - This package loads Carbon Fields as a WordPress plugin (official).
 - [GUI for Carbon Fields Plugin](https://github.com/Kaloyan98/Carbon-Fields-plugin) - GUI for Carbon Fields.
 - [Carbon Fields Engine](https://github.com/dannygsmith/carbon-fields-engine) - Carbon Fields Meta Boxes for Nav Menu Items used in WordPress Themes - will be automatically included.
 - [Bot](https://github.com/pupuga/bot) - modules wordpress ( depends on carbon fields).
