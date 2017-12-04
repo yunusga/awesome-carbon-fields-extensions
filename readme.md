@@ -7,6 +7,7 @@
 
 - [Fields](#fields)
 - [Plugins](#plugins)
+- [Tools](#tools)
 
 
 ## Fields
@@ -30,6 +31,11 @@
 - [GUI for Carbon Fields Plugin](https://github.com/Kaloyan98/Carbon-Fields-plugin) - GUI for Carbon Fields.
 - [Carbon Fields Engine](https://github.com/dannygsmith/carbon-fields-engine) - Carbon Fields Meta Boxes for Nav Menu Items used in WordPress Themes - will be automatically included.
 - [Bot](https://github.com/pupuga/bot) - modules wordpress ( depends on carbon fields).
+
+
+## Tools
+
+- [Carbon Fields Generator](https://wpcodewizard.com/) - Speed up Carbon Fields creation & display (still in process).
 
 ## Contribute
 
