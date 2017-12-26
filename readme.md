@@ -37,6 +37,11 @@
 
 - [Carbon Fields Generator](https://wpcodewizard.com/) - Speed up Carbon Fields creation & display (still in process).
 
+
+## Code Examples
+
+- [Booking CMS with Carbon fields](https://benbroide.com/presentation/carbon-fields) - Presentation how to setup a booking CMS with carbon fields with code examples.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
