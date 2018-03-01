@@ -23,6 +23,7 @@
 - [urlpicker](https://github.com/iamntz/carbon-fields-urlpicker) - Adds a `urlpicker` field type to Carbon Fields.
 - [Olapic](https://github.com/schrapel/carbon-fields-olapic) - Extends the base Carbon Fields with a Olapic field.
 - [Brightcove](https://github.com/schrapel/carbon-fields-brightcove) - Extends the base Carbon Fields with a Brightcove field.
+- [Toggler](https://github.com/cdk-comp/carbon-field-toggler) - Adds a `toggler` field type to Carbon Fields. It creates a visual toggle between adjacent fields in carbon fields.
 
 
 ## Plugins
